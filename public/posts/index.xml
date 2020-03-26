@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 我的全新 Hugo 网站</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on 我的全新 Hugo 网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 25 Mar 2020 10:30:32 +0800</lastBuildDate>
+    
+	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo 创建记录</title>
+      <link>http://example.org/hugo-building/</link>
+      <pubDate>Wed, 25 Mar 2020 10:30:32 +0800</pubDate>
+      
+      <guid>http://example.org/hugo-building/</guid>
+      <description>&lt;h1 id=&#34;abuqi建站记录&#34;&gt;Abuqi建站记录&lt;/h1&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
